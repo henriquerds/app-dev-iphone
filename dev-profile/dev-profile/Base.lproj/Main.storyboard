@@ -182,6 +182,7 @@
                         </variation>
                     </view>
                     <connections>
+                        <outlet property="customizeDashboardBtn" destination="c4R-4g-CLO" id="0D5-3s-pmk"/>
                         <outlet property="profileLogoImg" destination="vrB-gI-PZl" id="rsD-Pb-ycM"/>
                     </connections>
                 </viewController>
